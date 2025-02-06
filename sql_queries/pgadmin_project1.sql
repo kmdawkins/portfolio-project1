@@ -3,13 +3,13 @@
 CREATE  DATABASE budget;
 
 CREATE TABLE pmo (
+    payment_no VARCHAR(50) PRIMARY KEY,
     transaction_date DATE,
     cost_center SMALLINT,
     budget_account VARCHAR(50),
     region_name VARCHAR(50),
     market VARCHAR(50),
     description TEXT,
-    payment_no VARCHAR(50) PRIMARY KEY,
     contract_no VARCHAR(20),
     contract_name VARCHAR(100),
     purchase_order VARCHAR(20),
