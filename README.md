@@ -25,26 +25,26 @@ The data generated includes **realistic cost centers, project numbers, and contr
 
 ## **Key Steps & Technologies**
 ### **Step 1: Data Generation & Structuring**
-✔ Used **synthetic data generation** techniques to create a dataset based on historical structures (LLM/Reasoning models)  
-✔ Applied **Excel formulas** to automate field population (e.g., random project and contract number assignments).  
-✔ Incorporated **realistic financial transactions** to ensure **data complexity**.
+- Used **synthetic data generation** techniques to create a dataset based on historical structures (LLM/Reasoning models)  
+- Applied **Excel formulas** to automate field population (e.g., random project and contract number assignments).  
+- Incorporated **realistic financial transactions** to ensure **data complexity**.
 
 ### **Step 2: Data Cleaning & Transformation**
-✔ Ensured **data consistency** (e.g., standardizing currency values, handling missing data, standardized financial prefixes).  
-✔ Implemented **unique identifiers** for contracts, projects, and vendors.  
-✔ Optimized structure to facilitate **SQL querying** in later projects.
+- Ensured **data consistency** (e.g., standardizing currency values, handling missing data, standardized financial prefixes).  
+- Implemented **unique identifiers** for contracts, projects, and vendors.  
+- Optimized structure to facilitate **SQL querying** in later projects.
 
 ### **Step 3: Database Design & Migration**
-✔ Designed **PostgreSQL database schema** (`budget` schema, `pmo` table).  
-✔ Created an **Entity-Relationship Diagram (ERD)** for documentation.  
-✔ **Imported CSV data into PostgreSQL** and validated **250,000+ rows**.  
+- Designed **PostgreSQL database schema** (`budget` schema, `pmo` table).  
+- Created an **Entity-Relationship Diagram (ERD)** for documentation.  
+- **Imported CSV data into PostgreSQL** and validated **250,000+ rows**.  
 
 ### **Step 4: SQL Querying & Validation**
-✔ Wrote and executed **fundamental SQL queries** for:  
+Wrote and executed **fundamental SQL queries** for:  
    - **Basic data retrieval**
    - **Aggregation & financial analysis**
    - **Identifying key spend trends**
-✔ **Stored SQL queries** in my dedicated **Git repository: kmdawkins/portfolio-project1** for version control.
+**Stored SQL queries** in my dedicated **Git repository: kmdawkins/portfolio-project1** for version control.
 
 
 ## **Key Insights & Takeaways**
