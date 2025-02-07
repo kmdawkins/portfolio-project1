@@ -75,6 +75,5 @@ This project was developed as part of my persogit nal structured learning plan i
 
 
 ## **Next Steps**
-**Project 2**: Transitioning the dataset to a **relational schema**, to perform more advanced SQL querying **JOINS, CTEs, Window Functions, and performance tuning**.  
-
-**Project 3**: Implementing **Python for automation, data cleaning & analysis** using **Pandas, NumPy & SQLAlchemy**.
+- **Project 2**: Transitioning the dataset to a **relational schema**, to perform more advanced SQL querying **JOINS, CTEs, Window Functions, and performance tuning**.
+- **Project 3**: Implementing **Python for automation, data cleaning & analysis** using **Pandas, NumPy & SQLAlchemy**.
