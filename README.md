@@ -49,7 +49,7 @@ Wrote and executed **fundamental SQL queries** for:
    - **Basic data retrieval**
    - **Aggregation & financial analysis**
    - **Identifying key spend trends**
-**Stored SQL queries** in my dedicated **Git repository: kmdawkins/portfolio-project1** for version control.
+   - **Stored SQL queries** in my dedicated **Git repository: kmdawkins/portfolio-project1** for version control.
 
 
 ## **Repository Structure**
