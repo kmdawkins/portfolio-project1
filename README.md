@@ -39,7 +39,7 @@ The data generated includes **realistic cost centers, project numbers, and contr
 - Created an **Entity Relationship Diagram (ERD)** for documentation.  
 - **Imported CSV data into PostgreSQL** and validated **250,000+ rows**.
 
-### Entity Relationship Diagram (EDR)
+### Entity Relationship Diagram (ERD)
 Below is the Entity Relationship Diagram (ERD) for the PMO dataset.
 
 ![ERD - PMO Table](media/screenshots/erd.pmo.png)
