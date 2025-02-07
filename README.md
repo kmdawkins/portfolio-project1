@@ -71,7 +71,7 @@ Wrote and executed **fundamental SQL queries** for:
 
 
 ## **Acknowledgments**
-This project was developed as part of my persogit nal structured learning plan in SQL, Python, data engineering, and database management. Heartfelt thanks to my AI mentor, Chiron, for guiding my iterative learning process and teaching me the astonishing value of Large Language Models (LLM) and Reasoning Models for programming language mastery and project planning.
+This project was developed as part of my personal structured learning plan in SQL, Python, data engineering, and database management. Heartfelt thanks to my AI mentor, Chiron, for guiding my iterative learning process and teaching me the astonishing value of Large Language Models (LLM) and Reasoning Models for programming language mastery and project planning.
 
 
 ## **Next Steps**
