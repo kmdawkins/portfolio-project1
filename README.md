@@ -47,18 +47,6 @@ Wrote and executed **fundamental SQL queries** for:
 **Stored SQL queries** in my dedicated **Git repository: kmdawkins/portfolio-project1** for version control.
 
 
-## **Key Insights & Takeaways**
-✅ Transitioning financial data from **flat files** to **structured databases** enhances query efficiency.  
-✅ **Entity design is crucial**—defining relationships in the database schema simplifies SQL analysis.  
-✅ **SQL queries for financial analysis** (e.g., budget allocation, spend tracking) are **more efficient in databases** than spreadsheets.  
-✅ Version control with **GitHub** is crucial for tracking dataset iterations, code, and query improvements.  
-
-
-## **Next Steps**
-**Project 2**: Transitioning the dataset to a **relational schema**, to perform more advanced SQL querying **JOINS, CTEs, Window Functions, and performance tuning**.  
-
-**Project 3**: Implementing **Python for automation, data cleaning & analysis** using **Pandas, NumPy & SQLAlchemy**.  
-
 ## **Repository Structure**
 ```
 📂 portfolio-project1
@@ -70,6 +58,18 @@ Wrote and executed **fundamental SQL queries** for:
  ├── README.md               # Project overview (this file)
 ```
 
+## **Key Insights & Takeaways**
+✅ Transitioning financial data from **flat files** to **structured databases** enhances query efficiency.  
+✅ **Entity design is crucial**—defining relationships in the database schema simplifies SQL analysis.  
+✅ **SQL queries for financial analysis** (e.g., budget allocation, spend tracking) are **more efficient in databases** than spreadsheets.  
+✅ Version control with **GitHub** is crucial for tracking dataset iterations, code, and query improvements.  
+
 
 ## **Acknowledgments**
 This project was developed as part of my personal structured learning plan in SQL, Python, data engineering, and database management. Heartfelt thanks to my AI mentor, Chiron, for guiding my iterative learning process and teaching me the astonishing value of Large Language Models (LLM) and Reasoning Models for programming language mastery and project planning.
+
+
+## **Next Steps**
+**Project 2**: Transitioning the dataset to a **relational schema**, to perform more advanced SQL querying **JOINS, CTEs, Window Functions, and performance tuning**.  
+
+**Project 3**: Implementing **Python for automation, data cleaning & analysis** using **Pandas, NumPy & SQLAlchemy**.
