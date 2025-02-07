@@ -42,8 +42,7 @@ The data generated includes **realistic cost centers, project numbers, and contr
 ### Entity Relationship Diagram (EDR)
 Below is the Entity Relationship Diagram (ERD) for the PMO dataset.
 
-![ERD - PMO Table](media/screenshots/erd_pmo.png)
-
+![ERD - PMO Table](https://raw.githubusercontent.com/yourusername/portfolio-project1/main/media/screenshots/erd_pmo.png)
 
 ### **Step 4: SQL Querying & Validation**
 Wrote and executed **fundamental SQL queries** for:  
