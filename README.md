@@ -36,8 +36,14 @@ The data generated includes **realistic cost centers, project numbers, and contr
 
 ### **Step 3: Database Design & Migration**
 - Designed **PostgreSQL database schema** (`budget` schema, `pmo` table).  
-- Created an **Entity-Relationship Diagram (ERD)** for documentation.  
-- **Imported CSV data into PostgreSQL** and validated **250,000+ rows**.  
+- Created an **Entity Relationship Diagram (ERD)** for documentation.  
+- **Imported CSV data into PostgreSQL** and validated **250,000+ rows**.
+
+### Entity Relationship Diagram (EDR)
+Below is the Entity Relationship Diagram (ERD) for the PMO dataset.
+
+![ERD - PMO Table](media/screenshots/erd_pmo.png)
+
 
 ### **Step 4: SQL Querying & Validation**
 Wrote and executed **fundamental SQL queries** for:  
@@ -50,10 +56,10 @@ Wrote and executed **fundamental SQL queries** for:
 ## **Repository Structure**
 ```
 📂 portfolio-project1
- ├── 📂 diagrams/            # ERD & schema design files
- ├── 📂 docs/                # Documentation & planning files
+ ├── 📂 diagrams/            # ERD & schema design files (placeholder)
+ ├── 📂 docs/                # Documentation & planning files (placeholder)
  ├── 📂 media/               # Screenshots & query results
- ├── 📂 scripts/             # Python script for dataset generation
+ ├── 📂 scripts/             # Python script for dataset generation (placeholder)
  ├── 📂 sql_queries/         # SQL scripts for data analysis
  ├── README.md               # Project overview (this file)
 ```
@@ -66,7 +72,7 @@ Wrote and executed **fundamental SQL queries** for:
 
 
 ## **Acknowledgments**
-This project was developed as part of my personal structured learning plan in SQL, Python, data engineering, and database management. Heartfelt thanks to my AI mentor, Chiron, for guiding my iterative learning process and teaching me the astonishing value of Large Language Models (LLM) and Reasoning Models for programming language mastery and project planning.
+This project was developed as part of my persogit nal structured learning plan in SQL, Python, data engineering, and database management. Heartfelt thanks to my AI mentor, Chiron, for guiding my iterative learning process and teaching me the astonishing value of Large Language Models (LLM) and Reasoning Models for programming language mastery and project planning.
 
 
 ## **Next Steps**
